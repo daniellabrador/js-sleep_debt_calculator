@@ -1,6 +1,6 @@
 # **Sleep Debt Calculator**
 
-The Sleep Debt Calculator program tells you if you got enough sleep and calculates how far you are from your weekly sleep goal. This training project, prepared by [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript), has been an invaluable exercise in using conditionals with JavaScript.
+The Sleep Debt Calculator program tells you if you got enough sleep and calculates how far you are from your weekly sleep goal. This training project, prepared by [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript), has been an invaluable exercise in using functions with JavaScript.
 
 ## Table of Contents
 
